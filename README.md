@@ -20,6 +20,14 @@ This project demonstrates how to build a **real-time weather dashboard** in **Po
 
 ---
 
+## 🖼 Dashboard Previews
+![Dashboard Screenshot](https://github.com/misba-coder/Power-BI-Weather-Dashboard-/blob/main/Screenshot1.png)
+
+![Dashboard Screenshot](https://github.com/misba-coder/Power-BI-Weather-Dashboard-/blob/main/Screenshot2.png)
+
+![Dashboard Screenshot](https://github.com/misba-coder/Power-BI-Weather-Dashboard-/blob/main/Screenshot3.png)
+
+---
 ## 📊 Key DAX Measures
 ### Temperature & Update
 ```DAX
@@ -78,12 +86,6 @@ AQI <= 300, "#ff5b0f",
 - **Map Visuals**: City-wise Weather Display
 - **Conditional Formatting**: AQI Colors (Good → Hazardous)
 
----
-
-## 🖼 Dashboard Preview
-![Dashboard Screenshot](https://github.com/misba-coder/Power-BI-Weather-Dashboard-/blob/main/Screenshot1.png)
-
----
 
 ## 📝 Conclusion
 By integrating **WeatherAPI** with **Power BI**, you can build a live weather dashboard with AQI visualizations and real-time updates, enhanced by reusable DAX measures for scalability and maintainability.
