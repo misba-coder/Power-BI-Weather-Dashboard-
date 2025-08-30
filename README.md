@@ -92,5 +92,9 @@ By integrating **WeatherAPI** with **Power BI**, you can build a live weather da
 
 ---
 
-## 📧 Author
-**Misba Khatoon**  
+## Author:
+**[Misba Khatoon]**
+*Data Enthusiast*
+
+📧 Email: [misbakhatoon910@gmail.com]  
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/misba-khatoon-5067a3302) 
