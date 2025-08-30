@@ -81,7 +81,7 @@ AQI <= 300, "#ff5b0f",
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot]([https://github.com/misba-coder/Power-BI-Weather-Dashboard-/blob/main/Screenshot1.png])
+![Dashboard Screenshot](https://github.com/misba-coder/Power-BI-Weather-Dashboard-/blob/main/Screenshot1.png)
 
 ---
 
